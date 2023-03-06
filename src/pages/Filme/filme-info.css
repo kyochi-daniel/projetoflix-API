@@ -1,0 +1,54 @@
+.filme-info {
+    margin: 0 auto;
+    margin-top: 1.125rem;
+    display: flex;
+    flex-direction: column;
+    max-width: 50rem;
+    padding: 0 0.5rem;
+}
+
+.filme-info h1 {
+    margin: 14px 0;
+}
+
+.filme-info img {
+    border-radius: 0.5rem;
+    width: 56.25rem;
+    max-width: 100%;
+    max-height: 340px;
+    object-fit: cover;
+}
+
+.filme-info h3 {
+    margin-top: 0.875rem;
+}
+
+.filme-info span {
+    margin: 0.5rem 0;
+}
+
+.area-buttons button{
+    margin: 0.875rem 0.75rem 0 0;
+    font-size: 1.25rem;
+    border: 0;
+    outline: none;
+    padding: 0.75rem;
+    border-radius: 0.25rem;
+    cursor: pointer;
+    transition: .2s;
+}
+
+.area-buttons a {
+    text-decoration: none;
+    color: #000;
+    transition: .2s;
+}
+
+.area-buttons button:hover {
+    background-color: #297EED;
+    color: #fff;
+}
+
+.area-buttons a:hover {
+    color: #fff;
+}

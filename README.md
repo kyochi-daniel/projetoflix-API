@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Essa aplicação tem como propósito, mostrar um catálago dos últimos 20 filmes lançados. Você poderá salvar um filme que deseja assistir e também assistir ao trailer.
 
-[🔗 Clique aqui para acessar](https://projeto-pizza-delivery.vercel.app/)
+[🔗 Clique aqui para acessar](https://projetoflix-api.vercel.app/)
 
 ---
 

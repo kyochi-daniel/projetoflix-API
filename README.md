@@ -11,7 +11,7 @@ Projeto criado na aula de ReactJs, promovido pelo Sujeito Programador para ensin
 <br>
 
 <p align="center">
-  <img alt="github-favorites" src=".github/imagePreview.png" width="60%">
+  <img alt="github-favorites" src=".github/imagePreview.png" width="75%">
 </p>
 
 ## 🚀 Tecnologias

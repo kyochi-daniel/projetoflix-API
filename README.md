@@ -1,4 +1,4 @@
-<h1 align="center"> Delivery Pizzaria</h1>
+<h1 align="center"> PrimeFlix</h1>
 
 <p align="center">
 Projeto criado na aula de ReactJs, promovido pelo Sujeito Programador para ensino de tecnologias WEB.
